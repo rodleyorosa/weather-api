@@ -1,19 +1,13 @@
 # weather-api
 
-## Project setup
-```
-yarn install
-```
+I used Vue 3 composition API to create a weather app using an API from [https://openweathermap.org/](https://openweathermap.org/).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+The background takes the city name to generate a random image from [Unsplash](https://unsplash.com/).
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Dependencies
+- axios (api)
+- lodash (capitalize())
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot preview
+
+![Screenshot preview](assets/weather-app.jpg)
