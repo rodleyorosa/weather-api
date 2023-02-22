@@ -10,4 +10,4 @@ The background takes the city name to generate a random image from [Unsplash](ht
 
 ## Screenshot preview
 
-![Screenshot preview](assets/weather-app.jpg)
+![Screenshot preview](./src/assets/weather-app.jpg)
